@@ -1,21 +1,25 @@
 # Assemblage-Web
 
+Web services for an Assemblage continuous integration server
+
 home
-: http://deveiate.org/projects/Assemblage-Web
+: https://assembla.ge/
 
 code
-: http://bitbucket.org/ged/Assemblage-Web
+: https://bitbucket.org/ged/assemblage-web
 
 github
 : https://github.com/ged/assemblage-web
 
 docs
-: http://deveiate.org/code/assemblage-web
+: https://assembla.ge/docs/assemblage-web/
 
 
 ## Description
 
+This gem adds web services to an Assemblage continuous integration server.
 
+It's still largely vaporware.
 
 
 ## Prerequisites
@@ -30,9 +34,9 @@ docs
 
 ## Contributing
 
-You can check out the current development source with Mercurial via its
-{project page}[http://bitbucket.org/ged/assemblage-web]. Or if you prefer Git, via 
-{its Github mirror}[https://github.com/ged/assemblage-web].
+You can check out the current development source with Mercurial via
+[bitbucket](http://bitbucket.org/ged/assemblage-web). Or if you prefer Git, via
+[its Github mirror](https://github.com/ged/assemblage-web).
 
 After checking out the source, run:
 
