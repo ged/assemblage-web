@@ -1,0 +1,7 @@
+.simplecov
+ChangeLog
+README.md
+Rakefile
+lib/assemblage/web.rb
+spec/assemblage/web_spec.rb
+spec/spec_helper.rb
